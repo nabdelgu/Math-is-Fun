@@ -1,0 +1,117 @@
+/* -----------------------------------------------------------*/
+/* BASIC SETUP */
+/*------------------------------------------------------------*/
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+html{
+    color: #555;
+    font-family: 'Lato','Arial','sans-serif';
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+     text-align: center;
+    
+}
+h1 span{
+        font-size: 60%;
+
+}
+
+
+
+
+/* -----------------------------------------------------------*/
+/* ICONS */
+/*------------------------------------------------------------*/
+.icon-small{
+    color: orange;
+    font-size: 150%;
+    margin-right: 5px;
+    display: inline-block;
+    margin-top: -20px;
+}
+
+/* -----------------------------------------------------------*/
+/* Contact */
+/*------------------------------------------------------------*/
+
+.contact{
+    margin-top: 50px;
+}
+
+.contact h3{
+    text-align: left;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.contact h3 span{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.teacher-title{
+    margin-left: 40%;
+    
+}   
+
+
+.contact li{
+     list-style: none;
+}
+
+/*.email{
+    display: inline-block;
+    vertical-align: middle;
+}*/
+
+/* -----------------------------------------------------------*/
+/* HOW IT WORKS */
+/*------------------------------------------------------------*/
+.setup{
+    margin-top: 25px;
+}
+
+.how-it-works-head{
+    font-family: 'Averia Serif Libre', cursive;
+    font-size: 100%;
+    text-align: left;
+    margin-left: 80px;
+    /*background: coral;*/
+}
+
+.how-it-works-head p{
+    padding-top: 15px;
+    font-size: 80%; 
+    
+    
+}
+
+.create-free-account{
+    text-align: center;
+    margin-top: 10px;
+    text-align: left;
+
+   /* background: coral;*/
+}
+
+.login-signup{
+    
+        margin-left:400px;;
+}
+/*.Terms and Conditions{
+     font-family: 'Averia Serif Libre', cursive;
+    font-size: 100%;
+    text-align: center;  
+} */
+
